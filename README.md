@@ -2,7 +2,7 @@
 
 **An autonomous search-and-rescue drone that finds people and animals using a thermal camera.**
 
-> Hackathon project by **[TEAM NAME]**: [member 1], [member 2], [member 3], [member 4]
+> Hackathon project by **The Circuit Breakers**:
 
 ![Mission plan for a 1 km² search area](assets/mission_plan.png)
 
@@ -128,4 +128,4 @@ A human pilot starts every mission and can take over at any time.
 
 ---
 
-© 2026 [TEAM NAME]. All rights reserved.
+© 2026 The Circuit Breakers. All rights reserved.
